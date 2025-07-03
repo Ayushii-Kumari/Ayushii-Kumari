@@ -4,5 +4,5 @@
 -  I’m looking to collaborate on: Projects related to predictive modeling, AI ethics, and scalable machine learning solutions.
 -  How to reach me: Email me at 23051258@kiit.ac.in or connect on https://www.linkedin.com/in/ayushi-kumari-4b5316325
 -  Pronouns: She/Her
--  Fun fact: I built an AI model to predict wildlife crime risk zones, and it can help improve conservation efforts!
+-  Fun fact: I built an AI Sudoku Solver! 
 -  URL of my project: crime-prediction-and-risk-analysis.streamlit.app
